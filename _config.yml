@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-homepage_label: "Travel Datathon 24-09-2019"
 homepage: "TravelDatathon_ensembleMethod.ipynb"
+source_label: "source"
+theme: "readable"
