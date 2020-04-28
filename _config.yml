@@ -1,4 +1,3 @@
 theme: jekyll-theme-merlot
 
-pip install ipyaml
-ipyaml notebook.ipynb
+homepage: "TravelDatathon_ensembleMethod.ipynb"
